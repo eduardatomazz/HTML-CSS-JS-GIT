@@ -57,6 +57,10 @@ a {
     display: flex;
     text-align: center;
     justify-content: space-around;
+    background-color:rgb(88, 134, 163) ;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
 }
 .desenho{
     width: 300px;
@@ -69,4 +73,15 @@ a {
     padding: 20px;
     text-align: left;
 }
-
+#texto2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    background-color:rgb(88, 134, 163) ;
+    border-style: solid;
+    border-color: white;
+    margin: 100px;
+}
